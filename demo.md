@@ -29,5 +29,5 @@ How do I make:
 `const PI = 3.1415;`
 
 ## IV. Other
-![dopey smurfy](https://vignette.wikia.nocookie.net/smurfs/images/0/0d/Dopey4.JPG/revision/latest/scale-to-width-down/240)
+![dopey smurfy](Dopey4.JPG.webp)
 :joy:
